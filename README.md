@@ -1,4 +1,4 @@
-![Alt text](/Dynamic Web Site on AWS.png)
+![Alt text](/Dynamic_Web_Site_on_AWS.png)
 
 # Dynamic Website Hosting on AWS
 
