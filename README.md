@@ -1,3 +1,5 @@
+![Alt text](/Dynamic Web Site on AWS.png)
+
 # Dynamic Website Hosting on AWS
 
 This project demonstrates how to host a dynamic website on AWS using various AWS services to ensure reliability, fault tolerance, and security. The project includes a reference architecture diagram and deployment scripts available in the [GitHub repository](https://github.com/galkini/Dynamic_Web_Site_on_AWS).
